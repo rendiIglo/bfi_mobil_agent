@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.026_Display Zip Code Lookup</name>
+   <tag></tag>
+   <comment>Address</comment>
+   <testCaseGuid>44df63c5-3262-4a2b-bb8e-373f93ec0496</testCaseGuid>
+</TestCaseEntity>

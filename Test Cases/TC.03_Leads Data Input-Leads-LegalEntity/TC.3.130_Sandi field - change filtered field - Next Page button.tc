@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.130_Sandi field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Popup LJK</comment>
+   <testCaseGuid>8b96b38f-4368-4dfc-bba2-a1acaae1bfaf</testCaseGuid>
+</TestCaseEntity>

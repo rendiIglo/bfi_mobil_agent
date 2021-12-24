@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.007 Popup Search Leads Search by Leads ID and Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3dfda32-de78-4cf1-8d9f-7513624a550a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.016_Double click the selected data to complete the schedule visit and see the result</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74555328-2d65-43bc-b967-3c77b2672f89</testCaseGuid>
+</TestCaseEntity>

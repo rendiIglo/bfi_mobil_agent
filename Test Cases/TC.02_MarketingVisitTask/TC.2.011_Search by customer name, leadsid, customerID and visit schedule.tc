@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.011_Search by customer name, leadsid, customerID and visit schedule</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>939b84c2-b486-425c-b45e-77e96b5d6e8e</testCaseGuid>
+</TestCaseEntity>

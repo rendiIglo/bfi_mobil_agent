@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.105_Add new Collateral data in Leads Details Insurance Info</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering
+Insurance</comment>
+   <testCaseGuid>f22ead24-4e75-4c36-9cce-172d222e91da</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.057_Choose one of the customer referral</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>da26b490-e3b4-4a8f-9154-177d644e6cd5</testCaseGuid>
+</TestCaseEntity>

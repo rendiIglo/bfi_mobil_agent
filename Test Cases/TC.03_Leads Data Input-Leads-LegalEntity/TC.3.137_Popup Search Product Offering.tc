@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.137_Popup Search Product Offering</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering</comment>
+   <testCaseGuid>fa9a983c-ad63-4acc-aa27-f7fa471c135c</testCaseGuid>
+</TestCaseEntity>

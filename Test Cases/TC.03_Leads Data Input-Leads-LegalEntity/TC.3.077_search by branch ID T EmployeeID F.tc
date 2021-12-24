@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.077_search by branch ID T EmployeeID F</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>62f087fb-577b-4436-a636-a87d7208f31b</testCaseGuid>
+</TestCaseEntity>

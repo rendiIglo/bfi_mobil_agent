@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.048_Filtering Kecamatan field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>3fcc52af-47a2-4334-8ef3-a1db0ea33109</testCaseGuid>
+</TestCaseEntity>

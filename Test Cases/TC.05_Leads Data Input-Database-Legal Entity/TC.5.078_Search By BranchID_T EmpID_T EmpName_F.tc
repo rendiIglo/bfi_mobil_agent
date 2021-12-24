@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.078_Search By BranchID_T EmpID_T EmpName_F</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9c49376-095d-4731-944f-499e8ac3db07</testCaseGuid>
+</TestCaseEntity>

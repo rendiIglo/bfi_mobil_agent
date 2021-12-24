@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To find out what happens when create Input data Leads</description>
+   <name>TC.5.002 create Input data Leads</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78fae2a3-e8a3-4d8f-adb0-e1a646ecd3cb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.015_If the Search fields are left blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a15cabe2-f7ac-4365-8dce-23b2668a35f5</testCaseGuid>
+</TestCaseEntity>

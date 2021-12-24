@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.091_Displays the Supplier Search Popup</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row</comment>
+   <testCaseGuid>68a6cfd8-f7b6-47c8-8e55-2019101cf56c</testCaseGuid>
+</TestCaseEntity>

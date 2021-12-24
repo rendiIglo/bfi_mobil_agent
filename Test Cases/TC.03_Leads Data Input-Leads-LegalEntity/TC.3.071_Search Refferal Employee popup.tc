@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.071_Search Refferal Employee popup</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>f5149d92-fede-4682-89ff-33838126004e</testCaseGuid>
+</TestCaseEntity>

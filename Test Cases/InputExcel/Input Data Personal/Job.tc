@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Job</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b238c60-2501-4e8b-b35f-48ccce5ffde6</testCaseGuid>
+   <variable>
+      <defaultValue>'Database'</defaultValue>
+      <description></description>
+      <id>3f83860f-e574-4250-911a-fabfeae5fcf5</id>
+      <masked>false</masked>
+      <name>ddlDataType</name>
+   </variable>
+   <variable>
+      <defaultValue>'KARYAWAN SWASTA'</defaultValue>
+      <description></description>
+      <id>ecd6c336-24cc-4281-aa37-2df9eff65928</id>
+      <masked>false</masked>
+      <name>ddlProfession</name>
+   </variable>
+   <variable>
+      <defaultValue>'IT Specialist'</defaultValue>
+      <description></description>
+      <id>cd4cbc71-de7d-4ddf-9f9d-0ede730bc1b2</id>
+      <masked>false</masked>
+      <name>ddlJobLevel</name>
+   </variable>
+   <variable>
+      <defaultValue>'Supervisor'</defaultValue>
+      <description></description>
+      <id>5cb6554e-7608-4c09-a9b9-8c473afedf8b</id>
+      <masked>false</masked>
+      <name>ddlPosition</name>
+   </variable>
+   <variable>
+      <defaultValue>'JASA'</defaultValue>
+      <description></description>
+      <id>5ebd0290-d39a-4bd9-90f4-b53043af941a</id>
+      <masked>false</masked>
+      <name>ddlEconomySector</name>
+   </variable>
+   <variable>
+      <defaultValue>'JASA LAINNYA'</defaultValue>
+      <description></description>
+      <id>9d3d425b-c700-4bef-aabb-3f4cdc33f14f</id>
+      <masked>false</masked>
+      <name>ddlIndustryType</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.043_Tab Menu-Document</name>
+   <tag></tag>
+   <comment>Address Tab
+Legal Address Tab
+Jobs
+Documents</comment>
+   <testCaseGuid>7932dd1f-46e4-4c30-8fbd-3eaa338f49db</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.076_Search Refferal Name Based On BranchID EmpName, EmpID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af3401eb-8bd6-405e-a2d9-52f616e70d34</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.024 Search ZIP Code</name>
+   <tag></tag>
+   <comment>Address</comment>
+   <testCaseGuid>c441e9e0-ea33-4b4d-aaa0-35a37357741b</testCaseGuid>
+</TestCaseEntity>

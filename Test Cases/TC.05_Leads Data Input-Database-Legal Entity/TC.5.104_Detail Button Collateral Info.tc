@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.104_Detail Button Collateral Info</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row</comment>
+   <testCaseGuid>baec77bb-ec8c-4a87-8755-4a3a0dcb06a2</testCaseGuid>
+</TestCaseEntity>

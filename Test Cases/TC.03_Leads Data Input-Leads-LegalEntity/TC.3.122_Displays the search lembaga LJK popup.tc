@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.122_Displays the search lembaga LJK popup</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering
+Insurance
+Fee</comment>
+   <testCaseGuid>8e67baae-7973-418a-b772-3cbec1823f57</testCaseGuid>
+</TestCaseEntity>

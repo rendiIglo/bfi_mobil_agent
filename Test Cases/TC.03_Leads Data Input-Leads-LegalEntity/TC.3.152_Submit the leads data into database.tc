@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.152_Submit the leads data into database</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering
+Insurance
+Fee</comment>
+   <testCaseGuid>8143df22-c2f8-42c1-a058-608d35052f58</testCaseGuid>
+</TestCaseEntity>

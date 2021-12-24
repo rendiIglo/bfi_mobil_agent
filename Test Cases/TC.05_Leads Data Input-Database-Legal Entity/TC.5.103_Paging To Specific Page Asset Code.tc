@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.103_Paging To Specific Page Asset Code</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering</comment>
+   <testCaseGuid>bdb58d4e-3780-4b71-a4da-b080270c2cd0</testCaseGuid>
+</TestCaseEntity>

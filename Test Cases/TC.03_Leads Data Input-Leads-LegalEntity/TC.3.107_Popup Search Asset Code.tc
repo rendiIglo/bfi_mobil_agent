@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.107_Popup Search Asset Code</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering
+Insurance
+Fee</comment>
+   <testCaseGuid>e04b66e3-aaf1-42ad-a067-cc0e35a91f46</testCaseGuid>
+</TestCaseEntity>

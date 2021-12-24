@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.074_Search Refferal name Based on Employee Name</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>291cf38e-6b45-4b00-8a3b-784b36256931</testCaseGuid>
+</TestCaseEntity>

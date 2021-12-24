@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.2.010_Search by customer name, leadsid found and visit schedule not found</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a34891fb-ca31-4021-a36b-b4d02a9b446a</testCaseGuid>
+</TestCaseEntity>

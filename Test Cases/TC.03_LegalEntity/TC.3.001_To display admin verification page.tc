@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.001_To display admin verification page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be71b9bd-031d-41ba-9ad9-3c4f15457cd0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.086_Selected is other than CGC and EGC then the referral name, field will display the default name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd015d03-c52b-48f3-8d3a-d54185582d86</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.072_Search Refferal Name based on BranchID</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>fd63a60c-f5d1-4010-8ef2-0288cdfd4333</testCaseGuid>
+</TestCaseEntity>

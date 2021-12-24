@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.052_Create Upload Dokumen KTP</name>
+   <tag></tag>
+   <comment>Address
+Documents</comment>
+   <testCaseGuid>7a703f17-a917-46f0-9930-0717683ffc20</testCaseGuid>
+</TestCaseEntity>

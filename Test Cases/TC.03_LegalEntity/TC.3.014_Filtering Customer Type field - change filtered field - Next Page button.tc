@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.014_Filtering Customer Type field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df379410-257d-4623-a92d-b449edfc1823</testCaseGuid>
+</TestCaseEntity>

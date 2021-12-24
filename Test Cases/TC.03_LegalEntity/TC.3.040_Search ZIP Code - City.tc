@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.040_Search ZIP Code - City</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>6de1962f-b92d-40d3-9094-a81ce0d10540</testCaseGuid>
+</TestCaseEntity>

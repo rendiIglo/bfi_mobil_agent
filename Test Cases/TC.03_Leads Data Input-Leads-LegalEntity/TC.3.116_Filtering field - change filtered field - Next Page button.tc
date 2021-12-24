@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.116_Filtering field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row</comment>
+   <testCaseGuid>dcef3810-9794-41a2-8be9-8989755382de</testCaseGuid>
+</TestCaseEntity>

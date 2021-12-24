@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.143_Sorting LOB Data</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering</comment>
+   <testCaseGuid>960d68cd-6f6e-417f-918c-052d6917f5ee</testCaseGuid>
+</TestCaseEntity>

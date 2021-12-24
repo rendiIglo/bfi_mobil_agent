@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.043_Search ZIP Code - unavailable data</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>04ce3e61-e7c7-4e63-b1eb-c1f9d70d1e94</testCaseGuid>
+</TestCaseEntity>

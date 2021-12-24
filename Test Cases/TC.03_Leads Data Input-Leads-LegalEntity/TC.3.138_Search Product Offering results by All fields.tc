@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.138_Search Product Offering results by All fields</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering</comment>
+   <testCaseGuid>93cb2061-3727-4a39-94cd-c36341875b4e</testCaseGuid>
+</TestCaseEntity>

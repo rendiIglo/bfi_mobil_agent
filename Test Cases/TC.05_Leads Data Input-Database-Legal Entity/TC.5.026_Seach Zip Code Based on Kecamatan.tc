@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.026_Seach Zip Code Based on Kecamatan</name>
+   <tag></tag>
+   <comment>Address</comment>
+   <testCaseGuid>f512ef7c-5a09-4109-8273-a2644b511ca9</testCaseGuid>
+</TestCaseEntity>

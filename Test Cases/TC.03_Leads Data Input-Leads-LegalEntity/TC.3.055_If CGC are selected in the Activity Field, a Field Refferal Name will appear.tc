@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.055_If CGC are selected in the Activity Field, a Field Refferal Name will appear</name>
+   <tag></tag>
+   <comment>Address Tab
+Legal Address Tab
+Jobs
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>7a33a04b-1d33-40de-a09e-220d2f08fd02</testCaseGuid>
+</TestCaseEntity>

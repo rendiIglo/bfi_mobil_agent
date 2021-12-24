@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.131_Nama LJK field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Popup LJK</comment>
+   <testCaseGuid>150a9e0f-f087-46b5-b9c1-c748029ad006</testCaseGuid>
+</TestCaseEntity>

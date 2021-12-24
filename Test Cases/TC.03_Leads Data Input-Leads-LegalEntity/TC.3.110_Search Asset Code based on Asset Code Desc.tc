@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.110_Search Asset Code based on Asset Code Desc</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row</comment>
+   <testCaseGuid>89636210-50a1-417f-82ed-5e49f761b5dd</testCaseGuid>
+</TestCaseEntity>

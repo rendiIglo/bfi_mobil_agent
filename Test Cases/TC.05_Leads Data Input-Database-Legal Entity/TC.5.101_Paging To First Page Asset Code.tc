@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.101_Paging To First Page Asset Code</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row</comment>
+   <testCaseGuid>a28bf135-976f-4fbc-a6d2-b0bdc3c29512</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input data Customer</description>
+   <name>TC.5.003 Tab Menu - New Lead Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3adbc60-4095-42e3-9f62-fa7372888213</testCaseGuid>
+</TestCaseEntity>

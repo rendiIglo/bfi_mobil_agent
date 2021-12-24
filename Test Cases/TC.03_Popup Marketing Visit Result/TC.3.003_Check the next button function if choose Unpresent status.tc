@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.003_Check the next button function if choose Unpresent status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68bfb9ba-f464-47e2-af2d-31a5dd8e1c75</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.039_Search ZIP Code - Kecamatan</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>f38ecfc6-eb03-473d-895d-bdd63dbec535</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.088_Add New Collateral Data In Leads Details</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row</comment>
+   <testCaseGuid>f02d27da-124f-49c1-b6da-cb41a38e94c1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.045_Search ZIP Code - choose zip code</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>b3c354ff-926c-47fe-9767-5d6d83970c93</testCaseGuid>
+</TestCaseEntity>

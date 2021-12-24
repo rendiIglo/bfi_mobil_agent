@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tab Menu -  Existing Leads Customer (Popup Copy from leads)</description>
+   <name>TC.5.004 Displaying a copy from search leads ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d908f2be-c940-4848-ac01-7bc41090609b</testCaseGuid>
+</TestCaseEntity>

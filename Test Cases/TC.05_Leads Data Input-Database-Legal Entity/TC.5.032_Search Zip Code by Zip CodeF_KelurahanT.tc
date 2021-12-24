@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.032_Search Zip Code by Zip CodeF_KelurahanT</name>
+   <tag></tag>
+   <comment>Address</comment>
+   <testCaseGuid>ee96f95d-1746-43d5-8606-7df8647d8b3c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.127_Search Lembaga LJK based on 1T 1F</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Popup LJK</comment>
+   <testCaseGuid>9d027c7f-e3f0-4027-966b-829e12708210</testCaseGuid>
+</TestCaseEntity>

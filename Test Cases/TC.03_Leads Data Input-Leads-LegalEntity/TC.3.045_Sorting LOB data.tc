@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.045_Sorting LOB data</name>
+   <tag></tag>
+   <comment>Address Tab
+Legal Address Tab
+Jobs
+Documents</comment>
+   <testCaseGuid>09eda15d-f38d-47cc-84ff-05dd8b76d798</testCaseGuid>
+</TestCaseEntity>

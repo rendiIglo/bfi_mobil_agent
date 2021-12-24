@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.095_Search Supplier based on Supplier ID T Supplier Name F</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row</comment>
+   <testCaseGuid>60951e38-ce00-4b4c-afdd-cac4533f3619</testCaseGuid>
+</TestCaseEntity>

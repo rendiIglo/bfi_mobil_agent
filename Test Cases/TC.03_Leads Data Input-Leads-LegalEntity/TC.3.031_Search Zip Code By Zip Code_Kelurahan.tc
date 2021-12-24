@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.031_Search Zip Code By Zip Code_Kelurahan</name>
+   <tag></tag>
+   <comment>Address</comment>
+   <testCaseGuid>2dbbc40c-760a-4517-a5a7-72ee02db7f6c</testCaseGuid>
+</TestCaseEntity>

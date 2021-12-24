@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.053_Mandatory Document Not Uploaded</name>
+   <tag></tag>
+   <comment>Address
+Documents</comment>
+   <testCaseGuid>52804a70-7c19-40df-9a87-71b218083e6d</testCaseGuid>
+</TestCaseEntity>

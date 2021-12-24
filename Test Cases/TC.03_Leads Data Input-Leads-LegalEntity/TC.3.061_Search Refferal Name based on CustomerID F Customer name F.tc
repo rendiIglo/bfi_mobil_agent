@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.061_Search Refferal Name based on CustomerID F Customer name F</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>3c9f5b14-63cb-4b16-9c1f-c961624130ee</testCaseGuid>
+</TestCaseEntity>

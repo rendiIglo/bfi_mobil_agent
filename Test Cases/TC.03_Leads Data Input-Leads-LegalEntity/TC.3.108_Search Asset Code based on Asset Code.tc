@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.108_Search Asset Code based on Asset Code</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Finance info
+Popup Product Offering
+Insurance
+Fee</comment>
+   <testCaseGuid>a582b339-564e-4eef-af50-725d9e3f970a</testCaseGuid>
+</TestCaseEntity>

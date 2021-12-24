@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.102_if not CGC and EGC referral name will default name with a disabled status</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>b87b73b7-8e59-4c57-9ffa-156f2fed0f17</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.129_Jenis Lembaga field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Popup LJK</comment>
+   <testCaseGuid>21f83c05-237a-4881-a2b4-5ae0177b5f4a</testCaseGuid>
+</TestCaseEntity>

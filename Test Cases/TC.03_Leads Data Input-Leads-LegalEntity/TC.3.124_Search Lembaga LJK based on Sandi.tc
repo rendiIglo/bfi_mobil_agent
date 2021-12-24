@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.124_Search Lembaga LJK based on Sandi</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail
+Add Row
+Popup LJK</comment>
+   <testCaseGuid>5e97bd9a-769e-44d0-9ae6-6cef185dbaa6</testCaseGuid>
+</TestCaseEntity>

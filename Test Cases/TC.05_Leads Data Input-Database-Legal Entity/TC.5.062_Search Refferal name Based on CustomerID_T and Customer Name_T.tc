@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.062_Search Refferal name Based on CustomerID_T and Customer Name_T</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49fd3af2-72fe-4846-97ca-5fba11990e00</testCaseGuid>
+</TestCaseEntity>

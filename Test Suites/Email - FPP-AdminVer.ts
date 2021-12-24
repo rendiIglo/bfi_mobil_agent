@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Email - FPP-AdminVer</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1555d682-bb5a-43ce-8e0f-6b114d9e0bcc</testSuiteGuid>
+   <testCaseLink>
+      <guid>2bff7a76-f4c6-464d-b96e-c0cf405ed67a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/InputExcel/openEmail</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>303c0f8d-a743-4011-bbfa-a55c32e4de11</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/InputExcel/FPP Personal</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>105e4b17-f334-4df1-bb81-e524adf8ccb8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>85c4472a-6801-4749-aa63-395eb96d7bc1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>da0fd18d-e20f-4251-acac-bbc819eced3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>552fda8c-172c-48e6-8b91-4383074d8d9e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f909e42e-4608-42e3-b25d-5c4fa965e563</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>28510712-4e58-4ef0-922f-dc1a2890755a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a8351ec4-6b05-40e7-94b5-07c527088254</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>310af02d-adb4-4964-a8d5-5ea0ed0af3b1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/InputExcel/AdminVer Personal</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b17546c5-fa08-4c3b-b227-e8e3a9808a1f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a71761d4-400a-4757-b814-e153a6b2045f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/InputExcel/FPP Legal Entity</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>22f19a89-6b7e-478e-a697-2d3e354f2540</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/InputExcel/AdminVer LE</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e3ed44bf-c09f-4da2-97ee-fd0fdf64dfaf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.054_Input leads data in TAB Leads Detail</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM</comment>
+   <testCaseGuid>eb082b87-bbf0-4a05-a9f5-e506bc63124d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.3.049_Filtering Kelurahan field - change filtered field - Next Page button</name>
+   <tag></tag>
+   <comment>Popup ZipCode</comment>
+   <testCaseGuid>ba1334ee-288c-4889-8c04-892254b06a4e</testCaseGuid>
+</TestCaseEntity>

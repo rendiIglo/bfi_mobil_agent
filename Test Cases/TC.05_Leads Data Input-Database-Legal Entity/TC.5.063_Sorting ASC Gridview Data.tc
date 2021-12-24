@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC.5.063_Sorting ASC Gridview Data</name>
+   <tag></tag>
+   <comment>Address
+Documents
+upload KTP
+NPWP
+SIM
+Lead Detail</comment>
+   <testCaseGuid>6dd053cd-8bc5-4391-925d-b456d6f3145f</testCaseGuid>
+</TestCaseEntity>
